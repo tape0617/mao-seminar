@@ -4,9 +4,9 @@
 # ディレクトリ構成
 ```
 seminar/
-├─ index.html        # トップページ
-├─ member.html       # メンバー紹介ページ
-├─ work.html         # ゼミ活動紹介ページ４５６７８９
+├─ index.html        # トップページ１２３
+├─ member.html       # メンバー紹介ページ１
+├─ work.html         # ゼミ活動紹介ページ１２３
 ├─ README.md
 ├─ images
 └─ css/
