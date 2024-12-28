@@ -6,7 +6,7 @@
 seminar/
 ├─ index.html        # トップページ
 ├─ member.html       # メンバー紹介ページ
-├─ work.html         # ゼミ活動紹介ページ４５６７
+├─ work.html         # ゼミ活動紹介ページ４５６７８９
 ├─ README.md
 ├─ images
 └─ css/
