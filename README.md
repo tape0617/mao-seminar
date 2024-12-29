@@ -11,7 +11,7 @@ https://elmas3.github.io/mao-seminar/
 ```
 seminar/
 ├─ index.html        # トップページ
-├─ member.html       # メンバー紹介ページ
+├─ member.html       # メンバー紹介ページ１２
 ├─ work.html         # ゼミ活動紹介ページ１２３４５６７８
 ├─ README.md
 ├─ images
