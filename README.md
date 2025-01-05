@@ -13,7 +13,7 @@ seminar/
 ├─ index.html        # トップページ１２３４
 ├─ member.html       # メンバー紹介ページ１２
 ├─ work.html         # ゼミ活動紹介ページ１２３４５６
-├─ README.md
+├─ README.md			# 本ファイル
 ├─ images
 └─ css/
     └─ common.css
