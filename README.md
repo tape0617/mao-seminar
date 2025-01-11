@@ -11,7 +11,7 @@ https://elmas3.github.io/mao-seminar/
 ```
 seminar/
 ├─ index.html        # トップページ１２３４５６７８
-├─ member.html       # メンバー紹介ページ１２
+├─ member.html       # メンバー紹介ページ１２３４５
 ├─ work.html         # ゼミ活動紹介ページ１２３４５６７８
 ├─ README.md			# 本ファイ-ル
 ├─ images
@@ -20,4 +20,4 @@ seminar/
 ```
 
 # 備考
-本リポジトリは「わかばちゃんと学ぶGit使い方入門」練習用として使用するリポジトリですすす。
+本リポジトリは「わばちゃんと学ぶGit使い方入門」練習用として使用するリポジトリですすす。
