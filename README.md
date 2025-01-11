@@ -10,11 +10,10 @@ https://elmas3.github.io/mao-seminar/
 # ディレクトリ構成
 ```
 seminar/
-├─ index.html        # トップページ１２３４５６７８
-├─ index.html        # トップページ１２３４５６７８９
-├─ member.html       # メンバー紹介ページ１２３４５
+├─ index.html        # トップページ１２３４
+├─ member.html       # メンバー紹介ページ１２
 ├─ work.html         # ゼミ活動紹介ページ１２３４５６７８
-├─ README.md			# 本ファイ-ル
+├─ README.md			# 本ファイル
 ├─ images
 └─ css/
     └─ common.css
